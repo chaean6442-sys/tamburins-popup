@@ -1,0 +1,4 @@
+"use client";import{createContext,ReactNode,useContext,useState}from"react";import{ObjectId}from"../data/experience";
+type State={stage:number;selected:ObjectId[];next:()=>void;back:()=>void;toggle:(id:ObjectId)=>void;restart:()=>void};const Context=createContext<State|null>(null);
+export function ExperienceProvider({children}:{children:ReactNode}){const[stage,setStage]=useState(0);const[selected,setSelected]=useState<ObjectId[]>([]);const toggle=(id:ObjectId)=>setSelected(c=>c.includes(id)?c.filter(x=>x!==id):c.length<4?[...c,id]:c);return <Context.Provider value={{stage,selected,toggle,next:()=>setStage(s=>Math.min(6,s+1)),back:()=>setStage(s=>Math.max(0,s-1)),restart:()=>{setSelected([]);setStage(0)}}}>{children}</Context.Provider>}
+export function useExperience(){const v=useContext(Context);if(!v)throw new Error("Experience context missing");return v}

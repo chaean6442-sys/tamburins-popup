@@ -1,0 +1,1 @@
+import{ReactNode}from"react";export default function SceneButton({children,onClick,disabled=false,secondary=false}:{children:ReactNode;onClick:()=>void;disabled?:boolean;secondary?:boolean}){return <button className={`primary-button ${secondary?"secondary":""}`} onClick={onClick} disabled={disabled}>{children}<span aria-hidden="true">→</span></button>}

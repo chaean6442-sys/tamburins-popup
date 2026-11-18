@@ -1,0 +1,369 @@
+[
+  {
+    "id": "harvest",
+    "name": "HARVEST PERFUME SOAP COLLECTION",
+    "concept": "밭과 논에서 향기로운 비누를 농작물처럼 수확한다는 세계관. 햇빛, 농작물, 농기구, 비닐하우스, 흙과 성장의 이미지를 향과 비누로 연결한다.",
+    "conceptKeywords": [
+      "Harvest",
+      "Crop",
+      "Soil",
+      "Seed",
+      "Field",
+      "Growth"
+    ],
+    "scentMood": [
+      "Green",
+      "Earthy",
+      "Woody",
+      "Fresh",
+      "Natural"
+    ],
+    "scentKeywords": [
+      "CHAMO: Thick chamomile / Soft wood grain / Musk",
+      "LALE: Green apple / White tulip / Sandalwood",
+      "BERGA SANDAL: Bergamot / Green tangerine / Sandalwood",
+      "WHITE DARJEELING: White champagne / Darjeeling tea / Creamy musk"
+    ],
+    "products": [
+      "Perfume Soap CHAMO Tray Set",
+      "Perfume Soap LALE Tray Set",
+      "Perfume Soap BERGA SANDAL Tray Set",
+      "Perfume Soap WHITE DARJEELING Tray Set"
+    ],
+    "matchingObjects": [
+      "seedFruit",
+      "leaf",
+      "wood",
+      "branch",
+      "stone"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/en/store/exhibition/",
+      "products": [
+        "https://www.tamburins.com/en/item/1680768216/",
+        "https://www.tamburins.com/en/item/1680768202/",
+        "https://www.tamburins.com/en/item/1680768213/",
+        "https://www.tamburins.com/en/item/1680768207/"
+      ]
+    }
+  },
+  {
+    "id": "blue_hinoki",
+    "name": "BLUE HINOKI",
+    "concept": "바다로 흘러든 히노키가 햇빛과 파도, 바닷바람을 지나며 변화하는 장면을 담은 시원한 우디 세계관.",
+    "conceptKeywords": [
+      "Ocean",
+      "Hinoki",
+      "Driftwood",
+      "Breeze",
+      "Water"
+    ],
+    "scentMood": [
+      "Fresh",
+      "Woody",
+      "Cool",
+      "Marine",
+      "Natural"
+    ],
+    "scentKeywords": [
+      "Pine Oil",
+      "Blue Hinoki",
+      "Driftwood"
+    ],
+    "products": [
+      "Perfume 50mL",
+      "Perfume 11mL",
+      "Egg Perfume",
+      "Perfume Oil",
+      "Perfume Balm",
+      "Shell Perfume Hand",
+      "Showery Body Wash",
+      "Showery Body Lotion"
+    ],
+    "matchingObjects": [
+      "wood",
+      "branch",
+      "stone",
+      "waterDrop"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/kr/shop/collection/collection-bluehinoki/",
+      "products": [
+        "https://www.tamburins.com/en/item/12001657/"
+      ]
+    }
+  },
+  {
+    "id": "cocoon",
+    "name": "THE COCOON COLLECTION",
+    "concept": "누에가 뽕잎을 갉아먹던 어린 시절의 기억을 향으로 기록한 Olfactive Archive. 고치, 섬유, 기억, 감싸짐이 핵심.",
+    "conceptKeywords": [
+      "Cocoon",
+      "Memory",
+      "Silk",
+      "Mulberry",
+      "Archive",
+      "Embrace"
+    ],
+    "scentMood": [
+      "Musky",
+      "Warm",
+      "Woody",
+      "Fibrous",
+      "Intimate"
+    ],
+    "scentKeywords": [
+      "COCOON MUSK: Instinct / Noble Musk / Sacred Trees",
+      "MULBERY LEAVES: Bark / Patchouli / Clary Sage / Myrrh"
+    ],
+    "products": [
+      "Tube Hand COCOON MUSK 65mL",
+      "Tube Hand MULBERY LEAVES 65mL",
+      "Olfactive Archive Tube Hand variants"
+    ],
+    "matchingObjects": [
+      "cocoon",
+      "cottonCloud",
+      "thinFabric",
+      "moss"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/en/store/exhibition/",
+      "products": [
+        "https://www.tamburins.com/en/item/1634090668/",
+        "https://www.tamburins.com/en/item/1634090669/"
+      ]
+    }
+  },
+  {
+    "id": "bottari",
+    "name": "BOTTARI",
+    "concept": "보따리 속에서 생명력이 풀려나며 버섯, 포자, 이끼가 증식하는 축축하고 유기적인 숲의 세계.",
+    "conceptKeywords": [
+      "Mushroom",
+      "Spore",
+      "Moss",
+      "Forest",
+      "Organic"
+    ],
+    "scentMood": [
+      "Earthy",
+      "Mossy",
+      "Woody",
+      "Damp",
+      "Organic",
+      "Deep"
+    ],
+    "scentKeywords": [
+      "Akigalawood",
+      "Soft Moss & Mushroom",
+      "Amber Musk"
+    ],
+    "products": [
+      "Perfume BOTTARI 50mL",
+      "Perfume BOTTARI Black",
+      "Perfume BOTTARI White",
+      "Perfume Oil BOTTARI",
+      "Perfume Balm BOTTARI",
+      "Perfume Candle BOTTARI"
+    ],
+    "matchingObjects": [
+      "mushroom",
+      "moss",
+      "branch",
+      "stone"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/kr/shop/bottari/bottaris/",
+      "products": [
+        "https://www.tamburins.com/en/item/12001506/"
+      ]
+    }
+  },
+  {
+    "id": "showerybody",
+    "name": "SHOWERYBODY COLLECTION — DAY DREAM",
+    "concept": "샤워 중 떠오르는 공상과 비가 지나간 자연을 네 가지 향으로 시각화한 컬렉션. 물, 안개, 구름, 폭풍과 유동성이 핵심.",
+    "conceptKeywords": [
+      "Rain",
+      "Mist",
+      "Cloud",
+      "Shower",
+      "Daydream",
+      "Fluid"
+    ],
+    "scentMood": [
+      "Watery",
+      "Misty",
+      "Airy",
+      "Fresh",
+      "Soft"
+    ],
+    "scentKeywords": [
+      "BIGALICO",
+      "FOG",
+      "NIMBUS",
+      "STORM"
+    ],
+    "products": [
+      "Showery Body Wash",
+      "Showery Body Lotion",
+      "BIGALICO / FOG / NIMBUS / STORM variants"
+    ],
+    "matchingObjects": [
+      "waterDrop",
+      "cottonCloud",
+      "thinFabric",
+      "crystal"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/en/store/exhibition/",
+      "products": [
+        "https://www.tamburins.com/en/store/exhibition/"
+      ]
+    }
+  },
+  {
+    "id": "evening_glow",
+    "name": "EVENING GLOW",
+    "concept": "씨앗에서 피어나 시간이 흐르며 변화하는 장미와 해질녘 노을에 물든 장미를 표현하는 컬렉션.",
+    "conceptKeywords": [
+      "Rose",
+      "Sunset",
+      "Bloom",
+      "Red Fruit",
+      "Glow"
+    ],
+    "scentMood": [
+      "Floral",
+      "Fruity",
+      "Warm",
+      "Soft",
+      "Sensual"
+    ],
+    "scentKeywords": [
+      "Rose Tinted by Sunset",
+      "Raspberry",
+      "Musk"
+    ],
+    "products": [
+      "Perfume 50mL",
+      "Perfume 11mL",
+      "Egg Perfume",
+      "Perfume Balm",
+      "Shell Perfume Hand",
+      "Perfumed Hand Wash",
+      "Perfume Oil"
+    ],
+    "matchingObjects": [
+      "flower",
+      "seedFruit",
+      "glowingSphere",
+      "thinFabric"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/kr/shop/collection/collection-eveningglow/",
+      "products": [
+        "https://www.tamburins.com/en/item/12001384/"
+      ]
+    }
+  },
+  {
+    "id": "sunshine",
+    "name": "SUNSHINE",
+    "concept": "햇살 아래 잠든 존재가 꿈속에서 빛나는 갑옷을 입은 강인한 존재로 변하는 이야기. 자연적 꽃향과 금속·미래적 이미지의 대비가 핵심.",
+    "conceptKeywords": [
+      "Sunlight",
+      "Armor",
+      "Dream",
+      "Warrior",
+      "Metal",
+      "Future"
+    ],
+    "scentMood": [
+      "Bright",
+      "Metallic",
+      "Floral",
+      "Clean",
+      "Strong",
+      "Futuristic"
+    ],
+    "scentKeywords": [
+      "Angelica",
+      "Muguet",
+      "Cloud Armor"
+    ],
+    "products": [
+      "Limited Perfume SUNSHINE",
+      "Perfume SUNSHINE 50mL",
+      "Perfume SUNSHINE 11mL",
+      "Perfume PUPPY",
+      "Perfume Oil",
+      "Shell Perfume Hand",
+      "Perfume Candle"
+    ],
+    "matchingObjects": [
+      "metalFragment",
+      "chromeSphere",
+      "sharpCrystal",
+      "glowingSphere"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/en/exhibition/sunshine/",
+      "products": [
+        "https://www.tamburins.com/en/exhibition/sunshine/"
+      ]
+    }
+  },
+  {
+    "id": "summer_tails",
+    "name": "SUMMER TAILS",
+    "concept": "초여름의 연둣빛 바람이 움직이는 머리카락 사이로 스쳐 지나가며 향의 흔적을 남기는 순간을 표현한 헤어 퍼퓸 컬렉션.",
+    "conceptKeywords": [
+      "Summer",
+      "Breeze",
+      "Hair",
+      "Green",
+      "Flow"
+    ],
+    "scentMood": [
+      "Green",
+      "Floral",
+      "Airy",
+      "Light",
+      "Flowing"
+    ],
+    "scentKeywords": [
+      "Light Green Honey Wind",
+      "Lily of the Valley",
+      "Cedarwood",
+      "Geranium",
+      "Anise",
+      "Patchouli",
+      "Musk"
+    ],
+    "products": [
+      "Hair Perfume 80mL",
+      "Hair Oil",
+      "Perfume 50mL",
+      "Perfume 11mL",
+      "Shell Perfume Hand",
+      "Perfumed Hand Emulsion",
+      "Perfumed Hand Wash",
+      "Hair Perfume & Comb"
+    ],
+    "matchingObjects": [
+      "flower",
+      "leaf",
+      "thinFabric",
+      "cottonCloud"
+    ],
+    "imageSources": {
+      "hero": "https://www.tamburins.com/en/exhibition/summer-tails/",
+      "products": [
+        "https://www.tamburins.com/en/item/12002320/",
+        "https://www.tamburins.com/en/shop/collection/collection-summertails/"
+      ]
+    }
+  }
+]

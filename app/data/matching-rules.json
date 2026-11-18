@@ -1,0 +1,168 @@
+{
+  "objectScores": {
+    "flower": {
+      "summer_tails": 3,
+      "evening_glow": 3,
+      "harvest": 1,
+      "cocoon": 1
+    },
+    "leaf": {
+      "summer_tails": 3,
+      "harvest": 3,
+      "blue_hinoki": 1
+    },
+    "branch": {
+      "blue_hinoki": 3,
+      "bottari": 2,
+      "harvest": 2
+    },
+    "wood": {
+      "blue_hinoki": 4,
+      "harvest": 2,
+      "bottari": 1
+    },
+    "mushroom": {
+      "bottari": 5,
+      "cocoon": 1
+    },
+    "moss": {
+      "bottari": 4,
+      "cocoon": 2,
+      "blue_hinoki": 1
+    },
+    "stone": {
+      "blue_hinoki": 2,
+      "bottari": 2,
+      "harvest": 1
+    },
+    "seedFruit": {
+      "harvest": 4,
+      "evening_glow": 3
+    },
+    "thinFabric": {
+      "summer_tails": 3,
+      "cocoon": 3,
+      "showerybody": 1
+    },
+    "cottonCloud": {
+      "cocoon": 4,
+      "showerybody": 4,
+      "summer_tails": 1
+    },
+    "waterDrop": {
+      "showerybody": 5,
+      "blue_hinoki": 3
+    },
+    "cocoon": {
+      "cocoon": 6
+    },
+    "metalFragment": {
+      "sunshine": 5
+    },
+    "chromeSphere": {
+      "sunshine": 5
+    },
+    "sharpCrystal": {
+      "sunshine": 4,
+      "showerybody": 1
+    },
+    "glowingSphere": {
+      "sunshine": 3,
+      "evening_glow": 2
+    },
+    "feather": {
+      "cocoon": 4,
+      "summer_tails": 2,
+      "showerybody": 1
+    },
+    "ribbon": {
+      "cocoon": 3,
+      "summer_tails": 3,
+      "evening_glow": 1
+    },
+    "sand": {
+      "harvest": 4,
+      "sunshine": 1
+    },
+    "ice": {
+      "showerybody": 4,
+      "blue_hinoki": 3,
+      "sunshine": 1
+    },
+    "lily": {
+      "summer_tails": 5,
+      "blue_hinoki": 1
+    },
+    "rose": {
+      "evening_glow": 5,
+      "summer_tails": 2
+    }
+  },
+  "combinationBonuses": [
+    {
+      "when": [
+        "mushroom",
+        "moss"
+      ],
+      "collection": "bottari",
+      "bonus": 5
+    },
+    {
+      "when": [
+        "wood",
+        "waterDrop"
+      ],
+      "collection": "blue_hinoki",
+      "bonus": 4
+    },
+    {
+      "when": [
+        "flower",
+        "seedFruit"
+      ],
+      "collection": "evening_glow",
+      "bonus": 4
+    },
+    {
+      "when": [
+        "flower",
+        "leaf",
+        "thinFabric"
+      ],
+      "collection": "summer_tails",
+      "bonus": 5
+    },
+    {
+      "when": [
+        "cocoon",
+        "cottonCloud"
+      ],
+      "collection": "cocoon",
+      "bonus": 5
+    },
+    {
+      "when": [
+        "metalFragment",
+        "chromeSphere"
+      ],
+      "collection": "sunshine",
+      "bonus": 5
+    },
+    {
+      "when": [
+        "waterDrop",
+        "cottonCloud"
+      ],
+      "collection": "showerybody",
+      "bonus": 5
+    },
+    {
+      "when": [
+        "seedFruit",
+        "leaf"
+      ],
+      "collection": "harvest",
+      "bonus": 4
+    }
+  ]
+}
